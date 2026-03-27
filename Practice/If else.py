@@ -304,12 +304,28 @@
 
 
 
+ductLength = 3500
 
 
+# for ductLength in range(3000, 3501):
+#     print(ductLength)
+
+# if 3000 < ductLength < 4000 :
+#     print("Pass")
+# else:
+#     print("Fail")
 
 
+# if ductLength >3000 and ductLength <4000:
+#     print("Pass")
+# else:
+#     print("Fail")
 
 
+# if ductlength>3000 and ductlength<4000 :
+#     print(True)
+# else:
+#     print(False)
 
 
 
