@@ -328,6 +328,12 @@ ductLength = 3500
 #     print(False)
 
 
+if 6%2 == 0:
+    print("Even")
+else:
+    print("Odd")
+
+
 
 
 
